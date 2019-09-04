@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Custom_listview</string>
+
+    <string-array name="Name">
+        <item>MS</item>
+        <item>Virat</item>
+        <item>ABD</item>
+        <item>Chris</item>
+        <item>Dwayne</item>
+        <item>Yuvraj</item>
+        <item>Rohit</item>
+        <item>Ajinkya</item>
+        <item>Rashid</item>
+        <item>Shikhar</item>
+        <item>Gautam</item>
+        <item>Sunil</item>
+        <item>Hardik</item>
+        <item>Shane</item>
+
+    </string-array>
+
+    <string-array name="Lastname">
+        <item>Dhoni</item>
+        <item>Kohli</item>
+        <item>Villiers</item>
+        <item>Gayle</item>
+        <item>Bravo</item>
+        <item>Singh</item>
+        <item>Sharma</item>
+        <item>Rahane</item>
+        <item>Khan</item>
+        <item>Dhawan</item>
+        <item>Gambhir</item>
+        <item>Narine</item>
+        <item>Pandya</item>
+        <item>Watson</item>
+
+    </string-array>
+
+    <string-array name="Team">
+        <item>CSK</item>
+        <item>RCB</item>
+        <item>RCB</item>
+        <item>KXI</item>
+        <item>CSK</item>
+        <item>KXI</item>
+        <item>MI</item>
+        <item>RR</item>
+        <item>SRH</item>
+        <item>SRH</item>
+        <item>DD</item>
+        <item>KKR</item>
+        <item>MI</item>
+        <item>CSK</item>
+
+    </string-array>
+
+</resources>
